@@ -1,0 +1,12 @@
+{
+  "name": "garden-app",
+  "displayName": "garden-app",
+  "expo": {
+    "name": "garden-app",
+    "slug": "garden-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
