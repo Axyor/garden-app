@@ -1,12 +1,19 @@
 {
-  "name": "garden-app",
+  "name": "Le coin vert",
   "displayName": "garden-app",
   "expo": {
-    "name": "garden-app",
+    "name": "Le coin vert",
     "slug": "garden-app",
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "icon":"./assets/img/icon.png",
+    "splash": {
+      "image":"./assets/img/splash.png",
+      "resizeMode":"cover",
+      "margin":0,
+      "backgroundcolor": "#005C4A"
+    }
   }
 }
